@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+{:refdef: style="text-align: center;"}
+![image](assets/img/self_halftone_circle.png){: width="300" }
+{: refdef}
+
 #### Hi, everyone. Welcome to my website.
 
 I am a PhD student in English, working in the general fields of critical theory, cultural studies, and 20th- and 21st-century literature. The project I'm currently working my way toward defining deals with the situation of critical theory and cultural criticism in the vexed institutional condition of the university today.
