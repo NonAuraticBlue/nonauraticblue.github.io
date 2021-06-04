@@ -16,8 +16,8 @@ permalink: /CV/
 #### *Selected Other Work*
 
 - [*Penn State and the War Machine*](assets/pdf/Penn_State_and_the_War_Machine.pdf). A zine about Department of Defense-funded research at Penn State. Illustrated by me and co-authored with Max Larson and John Schneider. (November 2020)
-- ["Seeing '68"](https://www.watershedblog.com/single-post/2018/02/13/Seeing-68-HotE-Review-No-Intenso-Agora-In-the-Intense-Now). Review of a screening and director's Q&A of Joāo Moreira Salles' documentary *No Intenso Agora (In the Intense Now)* for *Watershed*, UNL's critical theory blog. (February 2018)
-- ["The Exuberant Silence of an Overabundant Life"](https://www.watershedblog.com/single-post/2017/01/19/The-Exuberant-Silence-of-an-Overabundant-Life). Review of *All Ears: The Aesthetics of Espionage" by Peter Szendy and translated by Roland Végső (January 2017).
+- ["Seeing '68"](https://www.watershedblog.com/single-post/2018/02/13/Seeing-68-HotE-Review-No-Intenso-Agora-In-the-Intense-Now). Review of a screening and director's Q&A of João Moreira Salles' documentary *No Intenso Agora (In the Intense Now)* for *Watershed*, UNL's critical theory blog. (February 2018)
+- ["The Exuberant Silence of an Overabundant Life"](https://www.watershedblog.com/single-post/2017/01/19/The-Exuberant-Silence-of-an-Overabundant-Life). Review of *All Ears: The Aesthetics of Espionage* by Peter Szendy and translated by Roland Végső, for *Watershed* (January 2017).
 
 ## Teaching
 
@@ -39,7 +39,7 @@ permalink: /CV/
 
 ## Service
 
-- Organizing Committee Member, Center for American Literary Studies (Penn State, 2020–2021)
+- Organizing Committee Member, "Unprecedented" webinar series, Center for American Literary Studies (Penn State, 2020–2021)
 - MA Representative and Treasurer, English Graduate Organization (Penn State, 2019–2020)
 - Treasurer and Contributing Social Media Coordinator, Watershed Collective (UNL, 2015–2017)
 - Research Assistant, English Department (UNL, 2015–2016)
