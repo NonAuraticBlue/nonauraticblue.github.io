@@ -27,6 +27,8 @@ url: "nonauraticblue.github.io" # the base hostname & protocol for your site, e.
 twitter_username: dillonrockrohr
 instagram_username: dillonrockrohr
 # github_username:
+# Google Analytics
+google_analytics: G-B5T9B7NNSZ
 
 # Build settings
 theme: minima
