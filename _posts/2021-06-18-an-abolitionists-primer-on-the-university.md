@@ -13,8 +13,7 @@ If you feel like it, you're more than welcome to download, print, copy, and shar
 
 ///
 
-<object width="750" height="900" type="application/pdf" data="/assets/pdf/An_Abolitionists_Primer_on_the_University.pdf">
-    <p>If the PDF isn't showing up, you can download using the link below.</p>
-</object>
+[Here's a download link for the full pdf.](/assets/pdf/An_Abolitionists_Primer_on_the_University.pdf) The embedded version below doesn't seem to work on mobile browsers. (Sorry, I'm new to this tech.)
 
-[Here's a download link for the full pdf.](/assets/pdf/An_Abolitionists_Primer_on_the_University.pdf)
+<object width="750" height="900" type="application/pdf" data="/assets/pdf/An_Abolitionists_Primer_on_the_University.pdf"></object>
+
