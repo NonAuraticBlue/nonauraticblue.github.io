@@ -8,7 +8,7 @@ tags:
 
 I don't know where the word comes from or even precisely what it means. Here's how I define it: a slipping away, the increasing presentation of an absence, the failure to return that is calculable.[^1]
 
-A system assumes an amount of attritiion. A part of a system's design is to actively minimize attrition or to cope with whatever quantitative effects could be likely to result. We do our best, but things get away from us.
+A system assumes an amount of attrition. A part of a system's design is to actively minimize attrition or to cope with whatever quantitative effects could be likely to result. We do our best, but things get away from us.
 
 I think sometimes about attrition of thoughts—my own, for instance. Sometimes I have ideas about whatever project nags at me from the middle of my mind, but, when I fail to arrive at the desk to chase after those ideas, they have a tendency to slip away. That space in the middle of my mind where the project paces and leers gets busier somehow in the increasing presentation of the work's absence.
 
@@ -16,9 +16,9 @@ People in grad school never really taught me about the procedures and workflows 
 
 Maybe I just speak for myself. Still, I think of all the terms I come back to in order to describe what this process of coming up with ideas, pursuing them, and producing words about them is, I fall back most of all on the term "fumbling." But fumbling your way through a degree program that relies on continual production of thought is perhaps just another term for the struggle to balance oneself upright and in a foreward motion against the gravity of attrition. The room in the middle of the mind where uncompleted projects reside gets heavier as it gets busier.
 
-The pull of attrition—the looming threat of it—is another way of naming the specific stressors of grad school life. What if the ideas never arrive? What is, after one too many times of failing to return to the writing desk, the momentum of work left uncompleted rolls over into failure? What if I become the one, how do you say, attrited?
+The pull of attrition—the looming threat of it—is another way of naming the specific stressors of grad school life. What if the ideas never arrive? What if, after one too many times of failing to return to the writing desk, the momentum of work left uncompleted rolls over into failure? What if I become the one, how do you say, attrited?
 
-Attrition is a calculated risk for an institution. We calculate it ourselves as well, and in informs our choices and our daily affects, as well as our own efforts, in our role as laborers, to help the institution reduce attrition among the students we teach. Everybody wants the students to keep coming back, but grad students—if they don't love the work, they just might not be cut out for it.
+Attrition is a calculated risk for an institution. We calculate it ourselves as well, and it informs our choices and our daily affects, as well as our own efforts, in our role as laborers, to help the institution reduce attrition among the students we teach. Everybody wants the students to keep coming back, but grad students—if they don't love the work, they just might not be cut out for it.
 
 Something tells me that we feel the threats of attrition differently here on the floor of the teaching factory, the thinking factory, than is felt in the department undergraduate studies committee or the financial office.
 
