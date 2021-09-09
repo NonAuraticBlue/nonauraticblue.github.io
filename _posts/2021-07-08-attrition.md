@@ -2,8 +2,7 @@
 layout: post
 title: "Attrition"
 tags:
-  - grad school life
-  - institution
+  - Grad School Life
 ---
 
 I don't know where the word comes from or even precisely what it means. Here's how I define it: a slipping away, the increasing presentation of an absence, the failure to return that is calculable.[^1]
