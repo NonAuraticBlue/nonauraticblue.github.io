@@ -1,5 +1,13 @@
 @charset "utf-8";
 
+// center align images
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
 // Define defaults for each variable.
 
 $base-font-family: 'Jost', sans-serif !default;
