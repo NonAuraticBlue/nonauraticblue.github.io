@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comps, or an Institutional Writing Life"
+title: "Comps, or an institutional writing life"
 tags:
   - Comps
 ---

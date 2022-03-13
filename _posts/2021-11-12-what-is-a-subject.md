@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Is a Subject?"
+title: "What is a subject?"
 tags:
   - Comps
   - Comics and Illustration

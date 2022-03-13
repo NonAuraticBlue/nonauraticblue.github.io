@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scholarship as Occult Commodity"
+title: "Scholarship as occult commodity"
 tags:
   - Comps
 ---

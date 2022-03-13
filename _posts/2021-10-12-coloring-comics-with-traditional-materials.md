@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coloring Comics with Traditional Materials"
+title: "Coloring comics with traditional materials"
 tags:
   - Comics and Illustration
 ---

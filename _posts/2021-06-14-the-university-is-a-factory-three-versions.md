@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The University Is a Factory – Three Versions"
+title: "The university is a factory – three versions"
 tags:
   - Comps
 ---

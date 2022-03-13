@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Abolitionist's Primer on the University"
+title: "An abolitionist's primer on the university"
 tags:
   - Comics and Illustration
 ---
